@@ -54,6 +54,7 @@ Go to Streamlit Sharing and log in or sign up.
 Click on 'New app' and select your GitHub repository.
 Specify the main file (e.g., app.py).
 Click 'Deploy' and wait for the deployment process to complete.
+streamlit run /users/diviyaselladurai/documents/ocr_project/ocr_apph.py
 
 
 For any inquiries or feedback, please contact:
