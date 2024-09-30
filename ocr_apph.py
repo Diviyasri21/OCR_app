@@ -1,8 +1,8 @@
 import streamlit as st
 from PIL import Image
 import numpy as np
-import cv2
-import easyocr
+import cv2  # OpenCV
+import easyocr  # EasyOCR for text extraction
 
 # Preprocess the image to improve OCR accuracy
 def preprocess_image(image):
